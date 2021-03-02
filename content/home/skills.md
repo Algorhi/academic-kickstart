@@ -18,7 +18,7 @@ subtitle = ""
   icon = "autoprefixer"
   icon_pack = "fab"
   name = "Automation"
-  description = "Aerospace system modeling; Flight vehicle dynamics,control and guidance; Intersection of robust control, optimal control, and its applications to aerospace engineering."
+  description = "Aerospace system modeling; Flight vehicle dynamics, control, and guidance; Intersection of robust control, optimal control, and its applications to aerospace engineering."
   
 [[feature]]
   icon = "chart-line"
